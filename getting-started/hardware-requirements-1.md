@@ -40,15 +40,12 @@ Compatible devices:
 
 We highly recommend using an Android device or Windows 10 tablet/computer. Windows provides the greatest flexibility and allows for wireless order printing whilst being able to use the order and table booking dashboard.
 
-### Worldwide
-
 Windows 10 tablets are abundant and cheap these days. You can't go wrong choosing from one of the major brands. Some notable brands include:
 
 * Lenevo
 * ASUS
 * HP
 * Microsoft - Surface Pro Tablet
-* Chuwi - Decent Chinese brand, starting from around $200
 
 ## Recommended Printers
 
@@ -56,7 +53,7 @@ You can use any printer with Windows or Linux drivers or any printer that works 
 
 ### Branded Printers
 
-Organized from lowest to highest price.
+Organised from lowest to highest price.
 
 * [PushPrinter PX-90](https://www.pushprinter.com/#printers) - Available with Ethernet or Bluetooth \(Recommended\)
 * Epson TM-T20 - Available with USB or Ethernet

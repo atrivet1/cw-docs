@@ -1,16 +1,16 @@
 ---
 description: >-
-  Get started creating your account, restaurant and setting up your menus. Place
-  a test order and see the order management process.
+  Get started creating your restaurant and setting up your menus. Place a test
+  order and see the order management process.
 ---
 
 # 10-Minute Quickstart
 
-{% embed url="https://youtu.be/Cd171XS0IGI" caption="Quickstart video tutorial" %}
+Pending video tutorial
 
-## Quick-start Steps
+## Create a new restaurant
 
-1. Visit https://www.cloudwaitress.com and sign up for an account
+1. Login to [https://admin.smartcookieoms.co.uk](https://admin.smartcookieoms.co.uk)
 2. Once you are at the admin dashboard, press "Create New Restaurant"
 3. Fill out your restaurant details and create the restaurant
 4. Click on your new restaurant to see the restaurant dashboard

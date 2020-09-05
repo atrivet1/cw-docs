@@ -34,6 +34,8 @@ You must have at least one service enabled
 
 You can add custom notes for each service that will be shown to the customer when selected. Useful if you need to convey an important message to your customer
 
+![Example of service notes display](../.gitbook/assets/image.png)
+
 ## Order Timings
 
 A customer is only able to place an order due immediately if your store is opened. Orders for a later date must be scheduled within your opening hours. As such, order timings are mostly controlled by your store opening hours. From there, each service has it's own separate order timing settings that allow your more in-depth control.

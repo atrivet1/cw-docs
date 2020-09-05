@@ -6,5 +6,3 @@ description: >-
 
 # Special Features
 
-{% page-ref page="covid-19-discount-for-united-kingdom.md" %}
-

@@ -23,5 +23,4 @@
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
   * [Special Features](platform-information/special-features.md)
-  * [COVID-19 Discount for United Kingdom](platform-information/covid-19-discount-for-united-kingdom.md)
 

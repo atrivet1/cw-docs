@@ -14,8 +14,6 @@ For step by step instructions by printing method. Please use the following instr
 
 {% page-ref page="printing-windows-shared-printing.md" %}
 
-{% page-ref page="printing-windows-network-printing.md" %}
-
 ## Requirements
 
 * Windows 7 / 8 / 10 either 32-bit or 64-bit

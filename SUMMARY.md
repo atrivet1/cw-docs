@@ -12,7 +12,6 @@
 * [How To Guides](how-to-guides/README.md)
   * [Setup Printing For Windows](how-to-guides/setup-printing-for-windows.md)
   * [Setup Printing For Android](how-to-guides/setup-printing-for-android.md)
-  * [Printing - Windows Network Printing](how-to-guides/printing-windows-network-printing.md)
   * [Printing - Windows Shared Printing](how-to-guides/printing-windows-shared-printing.md)
   * [Printing - API Key](how-to-guides/printing-api-key.md)
   * [Setup Stripe Payments](how-to-guides/setup-stripe-payments.md)

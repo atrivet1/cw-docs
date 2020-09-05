@@ -1,27 +1,14 @@
 ---
-description: >-
-  Learn how to modify your subscription, add a payment method and manage your
-  account billing
+description: Learn how to cancel your subscription
 ---
 
 # Your Subscription & Billing
 
-## Changing Subscription Plan
+## Cancel Your Subscription Plan
 
-1. Visit [https://admin.cloudwaitress.com](https://admin.cloudwaitress.com) and login
-2. Click **billing** on a restaurant in your restaurant list
-3. In the popup, select your subscription plan and press "Edit Subscription"
-4. Choose your plan from the drop down and press "Update Subscription"
+Send an email to aimee@smartcookiedesigns.co.uk with the subject 'Subscription cancellation request - Business name'.
 
-\|\| You will need to add a payment method before switching to a paid plan
-
-## Add A Payment Method
-
-We currently only accept, Visa, MasterCard, and American Express. To add a payment method you must:
-
-1. Visit [https://admin.cloudwaitress.com](https://admin.cloudwaitress.com) and login
-2. Click **billing** on a restaurant in your restaurant list
-3. In the popup, select "Payment Methods" and enter your card details
+We will cancel your subscription with our payment provided \(Stripe\) and your subscription will end and the end of your next billing cycle. 
 
 ## Billing Cycle
 
@@ -37,7 +24,7 @@ If your account has been cancelled due to a failed payment, you will no longer b
 
 ## Re-Activating Your Subscription
 
-If your account is cancelled, add a valid payment method to re-active your subscription.
+If your account is cancelled, contact aimee@smartcookiedesigns.co.uk and re-active your subscription.
 
 ## Refunds
 

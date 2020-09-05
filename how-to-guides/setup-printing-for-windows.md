@@ -8,8 +8,6 @@ description: >-
 
 Our system allows you to manually and automatically print out new orders. This guide will show you how to set order printing and troubleshoot issues.
 
-\|\| We are happy to remotely set up your printer for you. We know this is a step that can trip up many people due to every printer being a bit different. Please get in touch with us if you need assistance
-
 For step by step instructions by printing method. Please use the following instructions. It is worth noting that for most situations, we recommend using the Windows Shared Printing method;
 
 {% page-ref page="printing-api-key.md" %}

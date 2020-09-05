@@ -38,7 +38,7 @@ You can add custom notes for each service that will be shown to the customer whe
 
 ## Order Timings
 
-A customer is only able to place an order due immediately if your store is opened. Orders for a later date must be scheduled within your opening hours. As such, order timings are mostly controlled by your store opening hours. From there, each service has it's own separate order timing settings that allow your more in-depth control.
+A customer is only able to place an order due immediately if your store is open. Orders for a later date must be scheduled within your opening hours. As such, order timings are mostly controlled by your store opening hours. From there, each service has it's own separate order timing settings that allow you more in-depth control.
 
 ### Enabling & Disabling Order Times
 
@@ -95,11 +95,11 @@ Both estimated wait times and automated status updates are connected to the same
 
 ### Estimated Wait Times
 
-A stated, customer wait times are calculated using the above timing settings.
+As stated, customer wait times are calculated using the above timing settings.
 
 #### How estimated wait time are calculated for pickup or dine-in orders
 
-For pickup and dine-in orders, the estimated wait time is calculating but adding the **time till confirm** with the **time till ready** values. So for example, if your **time till confirm** was 5 and your **time till ready** was 20. The customer would get an estimated wait time of 20 + 5 = 25 minutes.
+For pickup and dine-in orders, the estimated wait time is calculated but adding the **time till confirm** with the **time till ready** values. So for example, if your **time till confirm** was 5 and your **time till ready** was 20. The customer would get an estimated wait time of 20 + 5 = 25 minutes.
 
 If you have not added a value for time till confirm or time till ready, the estimated wait time would not be calculated.
 

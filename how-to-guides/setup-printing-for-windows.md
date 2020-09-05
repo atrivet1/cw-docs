@@ -84,10 +84,6 @@ Visit your orders page. Select an order, under the action select bar, select pri
 
 ## Troubleshooting
 
-#### Contact Us
-
-We have successfully setup 100's of printers, there is a good chance we can save you lots of headaches so please don't hesitate to contact us.
-
 #### Sides being cut-off
 
 Start by reducing either your margin or paper width values under your printer configuration in your admin dashboard. You will eventually calibrate a suitable width and margin. You can also adjust the font size to something smaller. You can get your correct paper width under your Windows printer settings as seen in the guide above.
@@ -98,7 +94,7 @@ Under your Windows printer settings. Set your "Feed Line After Printing" option 
 
 #### Invalid API Key
 
-The API key you entered does not below to any of your print configurations. Double check your API key
+The API key you entered does not match to any of your print configurations. Double check your API key
 
 #### Could Not Authenticate
 

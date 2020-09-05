@@ -48,7 +48,7 @@ Once you have purchased your own domain name, visit "Settings &gt; Website &gt; 
 
 Under the "Settings &gt; Website &gt; SEO" section, you can edit your website title and meta description. This is the info Google will show on its search listings. It is recommended that you set these to something extremely local.
 
-Say you own an Indian restaurant called the Red Turban in a suburb called Townsville in New York. Your title should be "Red Turban - Authentic Indian Townsville New York.
+Say you own an Indian restaurant called 'Little India' in a Town called Banbury in Oxfordshire. Your title should be "Little India - Authentic Indian Banbury Oxfordshire".
 
 Your meta description should just expand on that more but make sure to hit on your keywords which are your locality and cuisine. The reason for this is because locality will reduce the massive competition and noise of other websites on search engines and it is most likely what customers will be searching for in your local area.
 

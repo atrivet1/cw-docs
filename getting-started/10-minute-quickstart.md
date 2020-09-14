@@ -8,6 +8,23 @@ description: >-
 
 Pending video tutorial
 
+## Signing up
+
+1. Go to [https://admin.smartcookieoms.co.uk/register](https://admin.smartcookieoms.co.uk/register)
+2. Fill out the form and click 'Continue'
+3. A 5-6 digit code is sent to your email address for verification
+4. Open your email client in a new tab \(make sure to keep the registration tab open\)
+5. Locate the verification email and make a note of the 5-6 digit code
+6. Return to the registration tab and enter the 5-6 digit code
+7. Click 'Complete Registration'
+8. You are now ready to create a new restaurant
+
+{% hint style="info" %}
+You may need to check your spam/junk folder for the verification email
+{% endhint %}
+
+
+
 ## Create a new restaurant
 
 1. Login to [https://admin.smartcookieoms.co.uk](https://admin.smartcookieoms.co.uk)

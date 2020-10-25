@@ -12,7 +12,7 @@ Pending video tutorial
 
 1. Go to [https://smartcookieoms.co.uk](https://smartcookieoms.co.uk)
 2. Click 'Get Started'
-3. Fill in your details and enter your payment details \(this will be the account your monthly subscription will automatically be taken from\)
+3. Fill in your details and enter your payment details \(this will be the card your monthly subscription will automatically be taken from\)
 4. Choose your marketing preference
 5. Make sure you read and agree to our [terms and conditions](https://smartcookieoms.co.uk/terms-and-conditions)
 6. Click 'Complete order'

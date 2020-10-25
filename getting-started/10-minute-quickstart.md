@@ -10,18 +10,22 @@ Pending video tutorial
 
 ## Signing up
 
-1. Go to [https://admin.smartcookieoms.co.uk/register](https://admin.smartcookieoms.co.uk/register)
-2. Fill out the form and click 'Continue'
-3. A 5-6 digit code is sent to your email address for verification
-4. Open your email client in a new tab \(make sure to keep the registration tab open\)
-5. Locate the verification email and make a note of the 5-6 digit code
-6. Return to the registration tab and enter the 5-6 digit code
-7. Click 'Complete Registration'
+1. Go to [https://smartcookieoms.co.uk](https://smartcookieoms.co.uk)
+2. Click 'Get Started'
+3. Fill in your details and enter your payment details \(this will be the account your monthly subscription will automatically be taken from\)
+4. Choose your marketing preference
+5. Make sure you read and agree to our [terms and conditions](https://smartcookieoms.co.uk/terms-and-conditions)
+6. Click 'Complete order'
+7. Your account will be created within 5-10 minutes and you will receive an email with a link to your dashboard and a temp password
 8. You are now ready to create a new restaurant
 
 {% hint style="info" %}
-You may need to check your spam/junk folder for the verification email
+You may need to check your spam/junk folder for the email. 
+
+Please make sure you change your password by clicking the '[Reset Password](https://admin.smartcookieoms.co.uk/reset-password)' link
 {% endhint %}
+
+
 
 
 

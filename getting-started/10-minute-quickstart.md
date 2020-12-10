@@ -31,7 +31,7 @@ Please make sure you change your password by clicking the '[Reset Password](http
 
 ## Create a new restaurant
 
-1. Login to [https://admin.smartcookieoms.co.uk](https://admin.smartcookieoms.co.uk)
+1. Login to [https://admin.virtuallyopen.co.uk](https://admin.virtuallyopen.co.uk)
 2. Once you are at the admin dashboard, press "Create New Restaurant"
 3. Fill out your restaurant details and create the restaurant
 4. Click on your new restaurant to see the restaurant dashboard

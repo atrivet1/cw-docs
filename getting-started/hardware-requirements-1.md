@@ -15,7 +15,7 @@ Every aspect of the system runs online and therefore requires you to be connecte
 * Consider exclusively using a 3G / 4G mobile internet connection. Certain countries have a much more reliable mobile network such as UK.
 
 {% hint style="warning" %}
-IT staff occasionally set up an internet firewall for small business to prevent accessing harmful content. Ensure that virtuallyopen.co.uk is white-listed on your firewall to avoid connection issues to our servers.
+IT staff occasionally set up an internet firewall for small business to prevent accessing harmful content. Ensure that smartcookieoms.co.uk is white-listed on your firewall to avoid connection issues to our servers.
 {% endhint %}
 
 ## Computer or Tablet
@@ -28,7 +28,7 @@ To manage your online store and orders, you will need a device that can access t
 This is optional but very helpful for managing orders
 {% endhint %}
 
-You can automatically or manually print new orders using our recommended compatible thermal receipt printer and an Android device, Windows or Linux PC. 
+You can automatically or manually print new orders using any printer whose drivers are installed on a Android device, Windows or Linux PC. To clarify, this means if you can print from an application like Word or Notepad, then it's compatible with our service. We highly recommend using a thermal receipt printer.
 
 Compatible devices:
 
@@ -49,13 +49,13 @@ Windows 10 tablets are abundant and cheap these days. You can't go wrong choosin
 
 ## Recommended Printers
 
-You can use any printer with Windows or Linux drivers or our recommended printer that works with ESCPOS using Android.
+You can use any printer with Windows or Linux drivers or any printer that works with ESCPOS using Android, so you are not restricted to just the printers we recommend.
 
 ### Branded Printers
 
 Organised from lowest to highest price.
 
-* [PushPrinter PX-90](https://smartcookieoms.co.uk/printer) - Available with Ethernet or Bluetooth \(Recommended\)
+* [PushPrinter PX-90](https://www.pushprinter.com/#printers) - Available with Ethernet or Bluetooth \(Recommended\)
 * Epson TM-T20 - Available with USB or Ethernet
 * Epson TM-M30 - Bluetooth
 * Epson TM-T82-II-i - USB and Ethernet, supporting many connected devices

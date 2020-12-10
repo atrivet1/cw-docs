@@ -6,7 +6,7 @@ description: >-
 
 # Printing - API Key
 
-1. Login to your Smart Cookie OMS account at [admin.smartcookieoms.co.uk](https://admin.smartcookieoms.co.uk) and go to Settings&gt;System&gt;Receipt Printing&gt;Create Printer.
+1. Login to your Virtually Open account at [admin.virtuallyopen.co.uk](https://admin.virtuallyopen.co.uk) and go to Settings&gt;System&gt;Receipt Printing&gt;Create Printer.
 
 ![](../.gitbook/assets/1-create-printer.png)
 

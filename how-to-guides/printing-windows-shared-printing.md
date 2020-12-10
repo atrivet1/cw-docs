@@ -40,9 +40,9 @@ description: how to guide to connect a USB printer
 
 **NOTE:**
 
-**Printer name** - This is the name that the printer will show inside of Smart Cookie OMS.
+**Printer name** - This is the name that the printer will show inside of the Virtually Open account.
 
-**API Key** - This needs to be copied from the printer settings inside of Smart Cookie OMS.
+**API Key** - This needs to be copied from the printer settings inside of Virtually Open.
 
 **Number of copies** - This will determine how many copies are printed.
 

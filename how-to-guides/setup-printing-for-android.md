@@ -11,8 +11,8 @@ Our system allows you to manually and automatically print out new orders. This g
 ## Requirements
 
 * An Android device with Android 1.4 or above
-* A ESC/POS compatible printer
-* Latest version of PushPrinter that can be downloaded [here](https://www.pushprinter.com)
+* Our ESC/POS compatible printer
+* Latest version of PushPrinter app that can be downloaded [here](https://www.pushprinter.com)
 
 ## Setup Process
 
@@ -20,7 +20,7 @@ Our system allows you to manually and automatically print out new orders. This g
 
 1. Visit your restaurant dashboard and navigate to "Settings &gt; Receipt Printing"
 2. Press the "New Printer" button and fill out any options needed
-3. On the "Printer Settings" tab, set your Printer Method to 'ESCPOS' and ESCPOS Printing Type to 'ESCPOS Image'.  Note that some older printers may not support this method and ESCPOS Text Only can be used in these cases.
+3. On the "Printer Settings" tab, set your Printer Method to 'ESCPOS' and ESCPOS Printing Type to 'ESCPOS Image'. 
 4. The default paper settings work for most printers.  If the test print is cutting off the edge of the text, please adjust the Paper Scale Factor to 1.7 and test again.
 5. Create the print configuration. After creating it, you will get a unique API key to connect to it. Keep this screen open as you will need to copy the API key soon.
 
